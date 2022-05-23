@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flicker</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="loading_text">loading</string>
+    <string name="retry">Retry</string>
+    <string name="type_here">Type here</string>
+    <string name="show_button_title">Show</string>
+    <string name="no_internet_message">Internet is not active please try again</string>
+    <string name="empty_list">Something went wrong try again</string>
+</resources>
